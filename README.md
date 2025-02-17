@@ -1,6 +1,6 @@
 # Web Scraping
 
-Data collection using Web Scraping, for data preparation, i am cleansing the data and processing the data to analyze skincare sales from female daily.
+Data collection using Web Scraping and preparing the raw data into a clean, structured, and usable format for analysis skincare sales from female daily.
 
 This is a repository to showcase my data analytics skills and projects that i get during my studies using Jupyter Notebook 
 
