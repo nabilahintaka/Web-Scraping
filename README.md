@@ -2,7 +2,7 @@
 
 Data collection using Web Scraping to analyze skincare sales from female daily. The obtained data is then processed and saved in CSV format for further analysis or storage in a database.
 
-This is a repository to showcase my data analytics skills and projects that i get during my studies using Jupyter Notebook and PostgreSQL
+This is a repository to showcase my data analytics skills and projects that i get during my studies using Jupyter Notebook 
 
 # Objectives
 - Able to retrieve data from internet sources with Web Scraping.
