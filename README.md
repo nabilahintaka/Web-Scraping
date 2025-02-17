@@ -1,6 +1,6 @@
 # Web Scraping
 
-Data collection using Web Scraping to analyze skincare sales from female daily. The obtained data is then processed and saved in CSV format for further analysis or storage in a database.
+Data collection using Web Scraping, for data preparation, i am cleansing the data and processing the data to analyze skincare sales from female daily.
 
 This is a repository to showcase my data analytics skills and projects that i get during my studies using Jupyter Notebook 
 
