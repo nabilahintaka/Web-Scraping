@@ -1,8 +1,8 @@
-# Web Scraping - Portofolio
+# Web Scraping
 
-Welcome to my Data Analyst Portfolio! I am a data analyst with experience in using various tools and technologies. I am proficient in data tools such as Python, SQL, BigQuery, Excel, Power BI, Tableau and Looker Studio.
+Data collection using Web Scraping to analyze skincare sales from female daily. The obtained data is then processed and saved in CSV format for further analysis or storage in a database.
 
-This is a repository to showcase my data analytics skills and projects that i get during my studies using Jupyter Notebook
+This is a repository to showcase my data analytics skills and projects that i get during my studies using Jupyter Notebook and PostgreSQL
 
 # Objectives
 - Able to retrieve data from internet sources with Web Scraping.
